@@ -87,9 +87,4 @@ http://127.0.0.1:5000
 ```
 
 ---
-
-## 👨‍💻 Autor
-
-Desenvolvido por **Paul Henrique**
-
 Projeto criado para estudo, prática e portfólio.
